@@ -32,4 +32,4 @@ Elle permet à l’utilisateur de :
 
 ![IMC Result](Captures/5.png)
 
-
+![IMC Result](Captures/2.png)
