@@ -22,9 +22,7 @@ Elle permet à l’utilisateur de :
 
 ## Captures s'écran
 
-<img src="Captures/1.png"/>
-
-![IMC Result](./Captures/1.png)
+<img alt="IMC Result" src="Captures/1.png"/>
 
 ![IMC Result](Captures/2.png)
 
