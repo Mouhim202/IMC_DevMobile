@@ -22,14 +22,14 @@ Elle permet à l’utilisateur de :
 
 ## Captures s'écran
 
-<img alt="IMC Result" src="Captures/1.png"/>
+![IMC Result](app/Captures/1.png)
 
-![IMC Result](Captures/2.png)
+![IMC Result](app/Captures/2.png)
 
-![IMC Result](Captures/3.png)
+![IMC Result](app/Captures/3.png)
 
-![IMC Result](Captures/4.png)
+![IMC Result](app/Captures/4.png)
 
-![IMC Result](Captures/5.png)
+![IMC Result](app/Captures/5.png)
 
-![IMC Result](Captures/2.png)
+![IMC Result](app/Captures/2.png)
